@@ -1,0 +1,70 @@
+{
+  "REFIT": [
+    {
+      "filename": "CLEAN_READ_ME_081116.txt",
+      "url": "https://pure.strath.ac.uk/ws/portalfiles/portal/62090183/CLEAN_READ_ME_081116.txt",
+      "sha256": "c5f5236fd5a7b29771913480fcef6e9be8a85d07511939c5a35160b7afc97bfb",
+      "include_raw": false,
+      "extract": false,
+      "archive_root": ""
+    },
+    {
+      "filename": "CLEAN_REFIT_081116.7z",
+      "url": "https://pure.strath.ac.uk/ws/portalfiles/portal/62090184/CLEAN_REFIT_081116.7z",
+      "sha256": "4dc4dde763da1c843e9d565fc68f1a63752d858980615635994d7f701fdfcc4b",
+      "include_raw": false,
+      "extract": true,
+      "archive_root": ""
+    },
+    {
+      "filename": "MetaData_Tables.xlsx",
+      "url": "https://pure.strath.ac.uk/ws/portalfiles/portal/62090313/MetaData_Tables.xlsx",
+      "sha256": "3d071013b178409e543d558e837ef806f1f2b108f665ab78e015a4411519fccb",
+      "include_raw": false,
+      "extract": false,
+      "archive_root": ""
+    },
+    {
+      "filename": "RAW_READ_ME_081116.txt",
+      "url": "https://pure.strath.ac.uk/ws/portalfiles/portal/62090176/RAW_READ_ME_081116.txt",
+      "sha256": "6b20b821a36af681e460bde5d24b933aa58e191c4c3f8de05218941e6d34937d",
+      "include_raw": true,
+      "extract": false,
+      "archive_root": ""
+    },
+    {
+      "filename": "REFIT_RAW_081116.7z",
+      "url": "https://pure.strath.ac.uk/ws/portalfiles/portal/62090177/REFIT_RAW_081116.7z",
+      "sha256": "f294fe673532220dc527b5e7d7a25e99568bd24acf9fb5be0a0def14af64b2cf",
+      "include_raw": true,
+      "extract": false,
+      "archive_root": ""
+    }
+  ],
+  "PLEGMA": [
+    {
+      "filename": "PlegmaDataset_Clean.7z",
+      "url": "https://pure.strath.ac.uk/ws/portalfiles/portal/180681715/PlegmaDataset_Clean.7z",
+      "sha256": "6e6726c5a815a6167a118aa86dc4258a7abebc47b2cd1f6a040999cfedf66823",
+      "include_raw": false,
+      "extract": true,
+      "archive_root": "Clean_Dataset"
+    },
+    {
+      "filename": "PlegmaDataset_README_20240326.txt",
+      "url": "https://pure.strath.ac.uk/ws/portalfiles/portal/200360685/PlegmaDataset_README_20240326.txt",
+      "sha256": "90a298d87440ebfc2e48e06221e2da453390c8003cdc9c1d04580841eb062753",
+      "include_raw": false,
+      "extract": false,
+      "archive_root": "Clean_Dataset"
+    },
+    {
+      "filename": "PlegmaDataset_Raw.7z",
+      "url": "https://pure.strath.ac.uk/ws/portalfiles/portal/180681717/PlegmaDataset_Raw.7z",
+      "sha256": "35bb82585453a1c70e3065b9107d7c37657e7eaa3f6ed527067935670ecb3c42",
+      "include_raw": true,
+      "extract": false,
+      "archive_root": "Clean_Dataset"
+    }
+  ]
+}
